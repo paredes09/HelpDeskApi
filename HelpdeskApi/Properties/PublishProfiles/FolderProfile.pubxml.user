@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\xtrem\source\repos\HelpdeskApi\HelpdeskApi\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2024-05-24T20:57:55.9909391Z;True|2024-05-24T14:48:56.6534560-05:00;True|2024-05-23T20:14:53.9803118-05:00;True|2024-05-21T11:58:30.0709346-05:00;True|2024-05-17T17:18:30.0598154-05:00;True|2024-05-17T16:21:38.2038078-05:00;True|2024-05-15T12:29:33.3665567-05:00;True|2024-05-15T12:24:53.1912074-05:00;True|2024-05-13T19:23:28.8266635-05:00;True|2024-05-10T01:10:42.1743384-05:00;True|2024-05-09T00:00:29.9640693-05:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DB_HELPDESK">
+      <Value>Data Source=LAPTOP-8VSSFMD0%3bInitial Catalog=DB_HELPDESK%3bUser Id=sa%3bPassword=123456%3bTrustServerCertificate=true%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
